@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I primarily write in _Python_ but have been expanding to *Bash* and am learning *PERL*
